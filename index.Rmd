@@ -1,9 +1,12 @@
 ---
 title: "Danielle T. Fradet"
 ---
-!(/Users/dtfradet/Dtfradet_Github)
+```{r}
+knitr::include_graphics("/Users/dtfradet/Dtfradet_Github/Danielle_bio.jpg")
+```
 
-**Email**: Danielle.Fradet@unh.edu
+
+**Email** Danielle.Fradet@unh.edu
 
 **Education**
 B.S. Wildlife, Fish, and Conservation Biology, UC Davis
@@ -11,5 +14,4 @@ B.S. Wildlife, Fish, and Conservation Biology, UC Davis
 **Publications**
 
 **CV**
-
 
